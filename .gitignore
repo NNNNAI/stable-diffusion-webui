@@ -37,3 +37,4 @@ notification.mp3
 /node_modules
 /package-lock.json
 /.coverage*
+.hypothesis/unicode_data/13.0.0/charmap.json.gz

@@ -4,7 +4,7 @@
 # change the variables in webui-user.sh instead #
 #################################################
 
-
+venv_dir="-"
 use_venv=1
 if [[ $venv_dir == "-" ]]; then
   use_venv=0
